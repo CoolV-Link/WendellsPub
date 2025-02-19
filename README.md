@@ -1,8 +1,5 @@
-# Wendell's Pub Links
 
-
-
-## Amazon Lists
+# Amazon Lists
 
 > ### [Important Items]()
 
